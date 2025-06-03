@@ -4,8 +4,9 @@
 
 Nama | NRP
 --- | ---
-Amoes Noland | 5027231028
-Rafi' Afnaan Fathurrahman | 5027231040
+Khumaidi Kharis Az-zacky | 5027241049
+Mohamad Arkan Zahir Asyafiq | 5027241120
+Abiyyu Raihan Putra Wikanto | 5027241042
 
 ## Daftar Isi
 
